@@ -70,12 +70,6 @@ Fourier-domain signal analysis and stability testing toolkit for scientific data
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pibond008&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pibond008&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 📫 Open to working student, internship, and entry-level positions in scientific software development, simulation engineering, and computational R&D.
